@@ -6,8 +6,8 @@
                 4096,
                 1639
             ],
-            "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/sempooling/records_clinical_4096_largeSemPooling.tsv",
-            "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/sempooling/meta_clinical_4096_largeSemPooling.tsv"
+            "tensorPath": "https://media.githubusercontent.com/media/RaphaelSilv/embeddings-visualizer/master/sempooling/meta_4096_large.tsv",
+            "metadataPath": "https://media.githubusercontent.com/media/RaphaelSilv/embeddings-visualizer/master/sempooling/meta_4096_large.tsv"
         }
     ]
 }
