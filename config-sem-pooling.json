@@ -1,9 +1,9 @@
 {
     "embeddings": [
         {
-            "tensorName": "Redações ENEM 2018: concat 4 últimas camadas BERTimbau large",
+            "tensorName": "Redações ENEM 2018: concatena 4 últimas camadas BERTimbau large",
             "tensorShape": [4096, 2863],
-            "tensorPath": "https://media.githubusercontent.com/media/RaphaelSilv/embeddings-visualizer/master/sempooling/records_4096_large_pool.tsv",
+            "tensorPath": "https://media.githubusercontent.com/media/RaphaelSilv/embeddings-visualizer/master/sempooling/records_4096_large.tsv",
             "metadataPath": "https://media.githubusercontent.com/media/RaphaelSilv/embeddings-visualizer/master/sempooling/meta_4096_large.tsv"
         }
     ]
